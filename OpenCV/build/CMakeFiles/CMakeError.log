@@ -1,0 +1,102 @@
+Determining if the include file linux/videodev.h exists failed with the following output:
+Change Dir: /home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_20320/fast"
+/usr/bin/make -f CMakeFiles/cmTC_20320.dir/build.make CMakeFiles/cmTC_20320.dir/build
+make[1]: Entering directory '/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_20320.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -msse -msse2 -msse3 -ffunction-sections  -O3 -DNDEBUG   -o CMakeFiles/cmTC_20320.dir/CheckIncludeFile.c.o   -c "/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c"
+/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: linux/videodev.h: No such file or directory
+ #include <linux/videodev.h>
+          ^~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_20320.dir/build.make:66: CMakeFiles/cmTC_20320.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_20320/fast] Error 2
+
+
+Determining if the include file sys/videoio.h exists failed with the following output:
+Change Dir: /home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_baacb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_baacb.dir/build.make CMakeFiles/cmTC_baacb.dir/build
+make[1]: Entering directory '/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_baacb.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -msse -msse2 -msse3 -ffunction-sections  -O3 -DNDEBUG   -o CMakeFiles/cmTC_baacb.dir/CheckIncludeFile.c.o   -c "/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c"
+/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: sys/videoio.h: No such file or directory
+ #include <sys/videoio.h>
+          ^~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_baacb.dir/build.make:66: CMakeFiles/cmTC_baacb.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_baacb/fast] Error 2
+
+
+Determining if the include file ffmpeg/avformat.h exists failed with the following output:
+Change Dir: /home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c2da9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c2da9.dir/build.make CMakeFiles/cmTC_c2da9.dir/build
+make[1]: Entering directory '/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c2da9.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -msse -msse2 -msse3 -ffunction-sections  -O3 -DNDEBUG   -o CMakeFiles/cmTC_c2da9.dir/CheckIncludeFile.c.o   -c "/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c"
+/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: ffmpeg/avformat.h: No such file or directory
+ #include <ffmpeg/avformat.h>
+          ^~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_c2da9.dir/build.make:66: CMakeFiles/cmTC_c2da9.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_c2da9/fast] Error 2
+
+
+Determining if the include file linux/videodev.h exists failed with the following output:
+Change Dir: /home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cda44/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cda44.dir/build.make CMakeFiles/cmTC_cda44.dir/build
+make[1]: Entering directory '/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cda44.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -msse -msse2 -msse3 -ffunction-sections  -O3 -DNDEBUG   -o CMakeFiles/cmTC_cda44.dir/CheckIncludeFile.c.o   -c "/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c"
+/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: linux/videodev.h: No such file or directory
+ #include <linux/videodev.h>
+          ^~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_cda44.dir/build.make:66: CMakeFiles/cmTC_cda44.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_cda44/fast] Error 2
+
+
+Determining if the include file sys/videoio.h exists failed with the following output:
+Change Dir: /home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_20fd0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_20fd0.dir/build.make CMakeFiles/cmTC_20fd0.dir/build
+make[1]: Entering directory '/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_20fd0.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -msse -msse2 -msse3 -ffunction-sections  -O3 -DNDEBUG   -o CMakeFiles/cmTC_20fd0.dir/CheckIncludeFile.c.o   -c "/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c"
+/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: sys/videoio.h: No such file or directory
+ #include <sys/videoio.h>
+          ^~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_20fd0.dir/build.make:66: CMakeFiles/cmTC_20fd0.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_20fd0/fast] Error 2
+
+
+Determining if the include file ffmpeg/avformat.h exists failed with the following output:
+Change Dir: /home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_004ed/fast"
+/usr/bin/make -f CMakeFiles/cmTC_004ed.dir/build.make CMakeFiles/cmTC_004ed.dir/build
+make[1]: Entering directory '/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_004ed.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -msse -msse2 -msse3 -ffunction-sections  -O3 -DNDEBUG   -o CMakeFiles/cmTC_004ed.dir/CheckIncludeFile.c.o   -c "/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c"
+/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: ffmpeg/avformat.h: No such file or directory
+ #include <ffmpeg/avformat.h>
+          ^~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_004ed.dir/build.make:66: CMakeFiles/cmTC_004ed.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/aigamer/Desktop/CLG/From laptop/desktop/live face rec/OpenCV/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_004ed/fast] Error 2
+
+
